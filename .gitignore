@@ -1,0 +1,25 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/venv/
+.env
+.env.*
+backend/.env
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+*.tgz
+build/
+android/.gradle/
+android/app/build/
+ios/build/
+*.log
+.vscode/
+.idea/
+
+# Old/backup project copy
+backend 2/
